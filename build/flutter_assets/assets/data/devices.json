@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Bed",
+        "description": "Sleep easy, your coffe ready when you are wake-up"
+    },
+    {
+        "id": 2,
+        "name": "Coffe Machine",
+        "description": "If you want coffe, take one!"
+    }
+]

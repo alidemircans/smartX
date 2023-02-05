@@ -1,0 +1,13 @@
+{
+    "id": 6,
+    "name": "Name",
+    "description": "Example",
+    "image": "",
+    "routines": [
+        {
+            "description": "Example",
+            "name": "Example",
+            "whenRun": "Example"
+        }
+    ]
+}

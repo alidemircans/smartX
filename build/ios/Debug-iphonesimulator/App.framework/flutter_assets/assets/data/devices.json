@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Bed",
+        "description": "Sleep easy, your coffe ready when you are wake-up",
+        "image": "https://cdn.shopify.com/s/files/1/0282/9562/6845/products/1_5e70caf4-0c3f-42f9-b3ee-1537d21f1958_1400x.jpg?v=1646085345",
+        "routines": [
+            {
+                "description": "Bed can calcualte your sleep quality",
+                "name": "Calculate Sleep Quality",
+                "whenRun": "Your sleep quality calcualted : 58 / 100"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Coffe Machine",
+        "description": "If you want a cool coffe, lets make a new one",
+        "image": "https://cdn.shopify.com/s/files/1/0282/9562/6845/products/1_5e70caf4-0c3f-42f9-b3ee-1537d21f1958_1400x.jpg?v=1646085345",
+        "routines": [
+            {
+                "description": "Filter Coffe",
+                "name": "Make a new filter coffe",
+                "whenRun": "Your filter coffe will be ready in 5 minute!"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "AirFryer",
+        "description": "If you want some good eat, use that",
+        "image": "https://m.media-amazon.com/images/I/811xeV7HFAL.jpg",
+        "routines": [
+            {
+                "description": "Bed can calcualte your sleep quality",
+                "name": "Calculate Sleep Quality",
+                "whenRun": "Your sleep quality calcualted : 58 / 100"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Car",
+        "description": "Sleep easy, your coffe ready when you are wake-up",
+        "image": "https://cdn.karar.com/gallery/2023/02/1/dffdfd%20_63_.jpg",
+        "routines": [
+            {
+                "description": "Bed can calcualte your sleep quality",
+                "name": "Calculate Sleep Quality",
+                "whenRun": "Your sleep quality calcualted : 58 / 100"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Air conditioning",
+        "description": "If you want coffe, take one!",
+        "image": "https://static.mavikadin.com/images/haberler/2021_09/buyuk/en-iyi-en-sessiz-calisan-12-klima-markasi-onerisi-ve-fiyatlari-1631826356.jpg",
+        "routines": [
+            {
+                "description": "Bed can calcualte your sleep quality",
+                "name": "Calculate Sleep Quality",
+                "whenRun": "Your sleep quality calcualted : 58 / 100"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "TV",
+        "description": "If you want some good eat, use that",
+        "image": "https://wallpaperaccess.com/full/829212.jpg",
+        "routines": [
+            {
+                "description": "Bed can calcualte your sleep quality",
+                "name": "Calculate Sleep Quality",
+                "whenRun": "Your sleep quality calcualted : 58 / 100"
+            }
+        ]
+    }
+]
