@@ -21,7 +21,7 @@
 
 ## Clean Architeture
 
-<h3>Data</h3> The data layer is the outermost layer of the application and is responsible for communicating with the server-side or a local database and data management logic. It also contains repository implementations.
+<h3>Data</h3> The data layer is the outermost layer of the application and is responsible for communicating with the server-side or a local database and data management logic. It also contains repository implementations. 
 
 <h3>Data Source</h3>  Explains the process of obtaining and updating data. It consists of Local Data Sources. SharedPreferences and Json will perform file requests. At the same time, local Data sources cache or persist data.
 
